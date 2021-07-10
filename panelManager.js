@@ -225,6 +225,7 @@ var dtpPanelManager = Utils.defineClass({
                     'changed::primary-monitor',
                     'changed::multi-monitors',
                     'changed::isolate-monitors',
+                    'changed::always-show-on-primary',
                     'changed::panel-positions',
                     'changed::panel-lengths',
                     'changed::panel-anchors',
